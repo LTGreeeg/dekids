@@ -187,3 +187,9 @@ h1 strong{
     
     background: purple;
 }
+.explicacion{
+    background: tomato;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
